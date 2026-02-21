@@ -1,23 +1,36 @@
 # amazon-sales-excel-dashboard
-Amazon Sales Performance Dashboard (Excel)
+📊 Amazon Sales Performance Dashboard (Excel)
 
-Business Intelligence Case Study | Excel | Sales & Operations Analytics
+Business Intelligence Case Study | Pivot Tables & Dashboards
 
-Project Overview
+📌 Project Summary
 
-This project presents an interactive Excel dashboard analyzing Amazon sales performance, fulfillment efficiency, and cancellation trends across categories and states.
+This interactive Excel dashboard analyzes Amazon sales performance to identify:
 
-The objective was to identify:
+Revenue trends by time and category
 
-Revenue drivers
+Top-selling products
 
-High-performing categories
+Geographic sales patterns
 
-Fulfillment performance (FBA vs Merchant)
+Fulfillment performance & order cancellation behavior
 
-Geographic sales concentration
+📈 Key Insights
 
-Order cancellation patterns
+📦 Total Orders: 100K+
+
+⚠ Cancellation Rate: 14.2%
+
+🏆 Top Category: Set
+
+🥇 High Revenue States: Maharashtra, Karnataka
+
+🚚 Fulfillment: FBA drives higher revenue than Merchant
+
+📊 Dashboard Preview
+Sales Trend & KPIs
+
+Top Products & State Sales
 
 🛠 Tools Used
 
@@ -25,27 +38,21 @@ Microsoft Excel
 
 Pivot Tables
 
-Slicers
+KPI Metrics
 
-KPI Cards
-
-Data Aggregation
+Charts & Slicers
 
 Dashboard Design
 
-📈 Key Insights
+📄 How to Use
 
-📦 Total Orders: 100K+
+Open the Excel file in files/amazon-sales-dashboard.xlsx
 
-❌ Cancellation Rate: 14.2%
+If prompted, enable editing
 
-🏆 Top Category: Set
+Refresh pivot tables (optional)
 
-🚚 FBA significantly outperforms Merchant in revenue
-
-🌍 Maharashtra & Karnataka drive highest state-level revenue
-
-📊 Dashboard Preview
+Use slicers to filter by Date, Category, or Fulfillment Type
 
 📂 Repository Structure
 amazon-sales-excel-dashboard/
